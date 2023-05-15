@@ -1,0 +1,5 @@
+C:\Users\dogan\Documents\VS Code\Nethereum_wallet\obj\Debug\net7.0\Nethereum_wallet.csproj.AssemblyReference.cache
+C:\Users\dogan\Documents\VS Code\Nethereum_wallet\obj\Debug\net7.0\Nethereum_wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\Documents\VS Code\Nethereum_wallet\obj\Debug\net7.0\Nethereum_wallet.AssemblyInfoInputs.cache
+C:\Users\dogan\Documents\VS Code\Nethereum_wallet\obj\Debug\net7.0\Nethereum_wallet.AssemblyInfo.cs
+C:\Users\dogan\Documents\VS Code\Nethereum_wallet\obj\Debug\net7.0\Nethereum_wallet.csproj.CoreCompileInputs.cache
